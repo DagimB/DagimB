@@ -6,7 +6,7 @@
 
 - 🔭 I Have worked on [Spotify Recommending App](https://github.com/Spot-Build-Week)
 
-- 🌱 I’m currently learning **Python, Data Science, SQL,**
+- 🌱 I’m currently learning **Python, Data Science, SQL, Machine Learning, and Neural Networks**
 
 - 👯 I Have worked on [Kickstarter Success Prediction](https://github.com/FT-Kickstarter-03-Jan-2022)
 
