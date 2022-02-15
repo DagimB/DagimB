@@ -2,6 +2,7 @@
 <h3 align="center">I am a Data Scientist/Analyst working on predicting the future!</h3>
 
 Who I am:
+
 I am a professional data scientist that loves to work with all types of data and predictive modeling using programming languages like Python and SQL to help companies and businesses for important future decisions.
 
 ![10-12-how-is-data-science-used-in-finance](https://user-images.githubusercontent.com/91219777/154115118-af04002f-a5cb-4987-aae0-7808f21d9c22.png)
