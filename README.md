@@ -7,7 +7,7 @@ I am a professional data scientist that loves to work with all types of data and
 
 ![10-12-how-is-data-science-used-in-finance](https://user-images.githubusercontent.com/91219777/154115118-af04002f-a5cb-4987-aae0-7808f21d9c22.png)
  
-  
+ 
 - 🔭 I Have worked on [Spotify Recommending App](https://github.com/Spot-Build-Week)
 
 - 🌱 I’m currently learning **Python, Data Science, SQL, Machine Learning, and Neural Networks**
