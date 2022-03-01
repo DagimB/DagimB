@@ -18,7 +18,7 @@ I am a professional data scientist that loves to work with all types of data and
 
 - 📝 I regularly write articles on [https://medium.com/@dagimbantikassegn](https://medium.com/@dagimbantikassegn)
 
-- 📫 How to reach me **dagimbantikassegn@gmail.com**
+- 📫 How to reach me **dagimbantikassegn@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
