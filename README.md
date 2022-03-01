@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dagim Bantikassegn</h1>
 <h3 align="center">I am a Data Scientist/Analyst working on predicting the future!</h3>
-  
+
 Who I am: 
  
 I am a professional data scientist that loves to work with all types of data and predictive modeling using Neural Networks and Machine Learning to help companies and businesses for important future decisions.
